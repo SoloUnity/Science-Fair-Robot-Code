@@ -1,4 +1,4 @@
-# Science-Fair-Robot-Code
+# Regional Science Fair Qualifier
 
 The simple proof of concept arduino code written to move a robot made to compete in a high school science fair.
 
